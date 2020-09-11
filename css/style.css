@@ -291,7 +291,12 @@ h2 {
     /* padding-left: 3rem;
     padding-bottom: 10px; */
 }
-
+.site-main .project-area .button-group button + button.active{
+  color:#838383;
+}
+.active{
+    color:#838383;
+}
 .site-main .project-area .grid .our-project > .title h4{
     /*font: normal 700 25px/12px var(--roboto);*/
 }
